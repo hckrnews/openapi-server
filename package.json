@@ -59,7 +59,7 @@
         "express"
     ],
     "dependencies": {
-        "@sentry/node": "^7.112.1",
+        "@sentry/node": "^8.0.0",
         "ajv-formats": "^3.0.0",
         "body-parser": "^1.20.2",
         "compression": "^1.7.4",
